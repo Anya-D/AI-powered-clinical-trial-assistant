@@ -2,7 +2,7 @@
 
 An AI-powered clinical trial assistant built to explore how AI can make complex clinical research data more accessible and actionable.
 
-**[Try the live demo]([https://lnkd.in/gQZY5WkN](https://ai-trial-assistant.lovable.app/))**
+**[Try the live demo]([https://ai-trial-assistant.lovable.app/])**
 
 ## Overview
 
